@@ -1,0 +1,7 @@
+[2026-11-07T16:51:55Z] === AST ITERATION 1 START | repo=ansible-collections/kubernetes.core sha=782672d2 ===
+[2026-11-07T16:51:55Z] [iter=1] PHASE START: ast repo=ansible-collections/kubernetes.core sha=782672d2
+[2026-11-07T16:51:55Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T16:53:22Z] [iter=1] AST chunks built count=1 triples=914075
+[2026-11-07T16:53:22Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/782672d2fdb0004d593440a3ddd4b9db014d9e4b/.complete
+[2026-11-07T16:53:22Z] [iter=1] PHASE END: ast elapsed_s=87 elapsed_min=1.5
+[2026-11-07T16:53:22Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
