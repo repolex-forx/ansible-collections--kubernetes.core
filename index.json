@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "kubernetes.core",
+  "versions": [
+    {
+      "commit": "782672d2fdb0004d593440a3ddd4b9db014d9e4b",
+      "tag": "",
+      "parsed_at": "2026-11-07T16:54:30.158698+00:00"
+    }
+  ]
+}
