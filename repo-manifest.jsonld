@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/kubernetes.core/commit/782672d2fdb0004d593440a3ddd4b9db014d9e4b",
       "git:hexsha": "782672d2fdb0004d593440a3ddd4b9db014d9e4b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T16:54:30.158050+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/kubernetes.core/commit/f5eb0625d6da97bcd228ca05a51b3645a0c46d41",
